@@ -6,7 +6,8 @@ Food Engineer and Master in Food Science and Engineering (focus on research).:sc
 
 Currently learning about Software Development :woman_technologist: 
 
-:dizzy:I really enjoy all kinds of learning, especially anything that can bring wellbeing. 
+:dizzy:I really enjoy all kinds of learning, especially anything that can bring wellbeing.
+
 :dizzy:I hope to achieve a beautiful marriage between food science and software development.
 
 You can find my curriculum on www.linkedin.com/in/eylen-manuela-sánchez-chica-11039034
