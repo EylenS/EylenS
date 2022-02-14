@@ -4,7 +4,7 @@ My name is _Eylen_ :raising_hand:
 
 Food Engineer and Master in Food Science and Engineering (focus on research).:scientist:
 
-Currently learning about Software Development al Holberton School :woman_technologist: 
+Currently learning about Software Development at Holberton School :woman_technologist: 
 
 :dizzy:I really enjoy all kinds of learning, especially anything that can bring wellbeing.
 
