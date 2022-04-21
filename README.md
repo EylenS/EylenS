@@ -7,4 +7,4 @@ Some time ago I heard about the new methodologies used for self-learning in tech
 
 It makes me very excited to think of all that I can still learn and all that technology has to offer, but most of all, to think that I can integrate my learning in software development into science, research and engineering applied to sustainable food ❤️‍🔥. 
 
-If you want more information about my profile you can find my social network profile 🔎 [linkedin](/www.linkedin.com/in/eylen-sanchez).
+If you want more information about my profile you can find my social network profile 🔎 <a href="https://linkedin.com/in/eylen-sanchez" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"/>linkedin</a>
