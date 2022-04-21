@@ -1,13 +1,10 @@
-## Hello
+# Welcome!
 
-My name is _Eylen_ :raising_hand:
+Hi! My name is **Eylen Sánchez**, 
+I guess you want to know a little about me. Briefly, I have a master's degree in food science and engineering. I worked for a while in the food industry in different sectors of the food industry, but always in the area of research and development. This prompted me to do my postgraduate studies with the purpose of learning about the different techniques and analytical tools in food science research. 
 
-Food Engineer and Master in Food Science and Engineering (focus on research).:scientist:
+Some time ago I heard about the new methodologies used for self-learning in technology offered by Holberton, I got excited, applied, passed and finished the foundation programme. 
 
-Currently learning about Software Development at Holberton School :woman_technologist: 
+It makes me very excited to think of all that I can still learn and all that technology has to offer, but most of all, to think that I can integrate my learning in software development into science, research and engineering applied to sustainable food. 
 
-:dizzy:I really enjoy all kinds of learning, especially anything that can bring wellbeing.
-
-:dizzy:I hope to achieve a beautiful marriage between food science and software development.
-
-You can find my curriculum on www.linkedin.com/in/eylen-manuela-sánchez-chica-11039034
+If you want more information about my profile you can find my social network profile [here](www.linkedin.com/in/eylen-sanchez).
